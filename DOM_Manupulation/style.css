@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.dynamic-div {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 10px 0;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+}
